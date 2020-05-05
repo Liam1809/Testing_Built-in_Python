@@ -11,3 +11,4 @@ list2.pop(4)
 list2.pop(2)
 for element in list2:
     print(element, end = " ")
+    
